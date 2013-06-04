@@ -3,7 +3,7 @@ It is a set of examples and a module with common problems solved.
 It allows easy development and stable production.
 
  - Run on boot:
-   To make your program run automaticaly on boot with Upsrart(you need to configure a .sh file and a .conf file)
+   To make your program run automaticaly on boot with Upstart (you need to configure a .sh file and a .conf file)
  - Auto restart:
    autoexit module to watch all .js files if they have been changed and to restart nodejs. 
  - A description of how to make your program crash proof from javascript errors. (segfaults still crash)
